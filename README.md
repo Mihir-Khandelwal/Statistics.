@@ -42,3 +42,24 @@
 4. Standard Deviation: It is the square root of variance.
 
 ![](https://www.basic-mathematics.com/images/Standard-deviation-formula.jpg)
+
+------
+- Frequency Table: A table representing frequency or a count of a category.
+------
+- Probability: Number of changes a particular event will occur.
+------
+### Bernoulli Trials.
+- An experiment which has exactly two outcomes. Probability distribution of the number of successes in 'n' Bernoulli Trials is called as Binomial Distriburtion.
+
+![](https://www.wallstreetmojo.com/wp-content/uploads/2019/03/Binomial-Distribution-Formula1.jpg)
+
+Here, p = probability of winning,
+      1-p = q = probability of loosing,
+      n = number of times an event occur,
+      k = number of times of winning.
+      
+------      
+### Continuous Random Variable.
+
+
+      
