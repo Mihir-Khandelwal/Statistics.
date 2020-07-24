@@ -53,13 +53,32 @@
 
 ![](https://www.wallstreetmojo.com/wp-content/uploads/2019/03/Binomial-Distribution-Formula1.jpg)
 
-Here, p = probability of winning,
-      1-p = q = probability of loosing,
-      n = number of times an event occur,
-      k = number of times of winning.
+- p = probability of winning.
+- 1-p = q = probability of loosing.
+- n = number of times an event occur.
+- k = number of times of winning.
       
 ------      
 ### Continuous Random Variable.
+- They can take any value in a given range. Probability distribution of a continuous random variable is known as Probability Density Function.
+- Example: Life of a fly, i.e. 4-6 days.
 
+![](https://sites.nicholas.duke.edu/statsreview/files/2013/06/pdf.jpg)
 
+------
+### Central Limit Theorem.
+- If we take means of random samples from a distribution and we plot the means, the graph approaches to a normal distribution when we have taken sufficiently large number of such samples. The theorem aslo states, that the mean of means will be approximately equal to the mean of the sample means.
+
+![](https://image.slidesharecdn.com/samplingdistributionsstatpptbecdoms-120223031954-phpapp01/95/sampling-distributions-stat-ppt-bec-doms-21-728.jpg?cb=1329968038)
+
+------
+### Normal Distribution.
+1. Area under the probability density function gives the probability fro the random variable to be in that range.
+2. There is the large probability for the means to be around the actual mean of the data, than to be farther away.
+3. Normal Distribution for higher standard deviations are flatter as compared to those for lover standard deviations.
+- To convert Normal Distribution to a standard normal curve, replace frequencies with probabilities, so that the area under the curve is 1.
       
+![](https://qph.fs.quoracdn.net/main-qimg-3e8079c89f2b8355c6be752b79feaa54.webp)
+
+------
+
