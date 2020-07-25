@@ -81,4 +81,21 @@
 ![](https://qph.fs.quoracdn.net/main-qimg-3e8079c89f2b8355c6be752b79feaa54.webp)
 
 ------
+### Empirical Rule.
+The Empirical Rule states that almost all data lies within 3 standard deviations of the mean for a normal distribution.
+1. Under this rule, 68% of the data falls within one standard deviation.
+2. 95% of the data lies within two standard deviations.
+3. 99.7% of the data is within three standard deviations.
+4. Totral area under the standard normal curve is 1.
 
+![](https://qph.fs.quoracdn.net/main-qimg-a86744ea6f27735b381e097bed60e048.webp)
+
+------
+### Z Score.
+The distance in terms of numbers of standard deviation, the observed value is away from the mean, is the standard score or the Z score.
+- If 'Z' value is positive it means it is right of the mean, and if 'Z' value is negative it is to the left of the mean.
+
+![](https://www.simplypsychology.org/Z-score-formula.jpg?ezimgfmt=rs:382x312/rscb19/ng:webp/ngcb19)
+
+------
+## Inferential Statistics. 
