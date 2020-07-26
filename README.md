@@ -99,3 +99,22 @@ The distance in terms of numbers of standard deviation, the observed value is aw
 
 ------
 ## Inferential Statistics. 
+- A single measure of some attribute of a sample is called as Statistics.
+- The statistic of the entire population in context is called as Population Statistics.
+- The statistic of a group taken from a population is called as Sample Statistics.
+------
+### Estimation.
+There are two types of Estimation.
+- Point Estimation: Picking up a random sample from the data and calculating it's mean is called Point Estimation.
+- Interval Estimation: Mean of the data is lying between lower bound(BD) and upper bound(UB), with 95% of confidence level is called Interval Estimation.
+
+![](https://miro.medium.com/max/712/1*QYZX8IUnuehc_wrVD5iJcA.png)
+
+------
+### Confidence Level.
+- It is the Interval[LB,UB] with k% of confidence level. It can be calculated by formula,
+
+![](https://www.cqeacademy.com/wp-content/uploads/2017/12/Confidence-Interval-for-Population-Mean-Explainer.jpg)
+
+------
+### Margin of Error.
