@@ -118,3 +118,10 @@ There are two types of Estimation.
 
 ------
 ### Margin of Error.
+- It can be defined as how far could the given statistics lie from the calculated sample mean in either direction, which is positive or negative. 
+- Confidence Intervals can be built with different degrees of confidence suitable to a user's needs like 70%, 90%.
+
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/04/Margin-of-Error-Formula1-1.jpg)
+
+------
+### Hypothesis.
