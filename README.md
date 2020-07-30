@@ -125,3 +125,23 @@ There are two types of Estimation.
 
 ------
 ### Hypothesis.
+A Hypothesis is nothing but a proposed explaination for a phenomenon.
+1. Null Hypothesis: It can be that the sample statistics to be equal to the population statistics or that the intervention doesn't bring any difference to the sample.
+2. Alternate Hypothesis: It basically negates the Null Hypothesis or says that the intervention brings a significant difference to the sample, or that the sample is significantly different from the population.
+
+![](https://ihelptostudy.com/wp-content/uploads/writing-null-hypothesis-and-alternative-hypothesis_1.jpg)
+
+------
+### Directional Hypothesis.
+For it, the null hypothesis is tested in only one direction. In this case, one tail test is used.
+
+![](https://image.slidesharecdn.com/researchhypothesis-141103111454-conversion-gate02/95/research-hypothesisppt-18-638.jpg?cb=1415013421)
+
+------
+### Non- Directional Hypothesis.
+For it, the null hypothesis is tested in only one direction. In this case, two tail test is used.
+
+![](https://image.slidesharecdn.com/researchhypothesis-141103111454-conversion-gate02/95/research-hypothesisppt-19-638.jpg?cb=1415013421)
+
+------
+### Errors.
