@@ -145,3 +145,8 @@ For it, the null hypothesis is tested in only one direction. In this case, two t
 
 ------
 ### Errors.
+A hypothesis is not factual. It is highly dependent on the researcher.
+1. Type 1 Error: Rejecting the null hypothesis when it's actually true (False Positive).
+2. Type 2 Error: Failing to reject the null hypothesis when it's actually false (False Nagative).
+
+![](Which of the following is not valid conditional structure available in Java?)
