@@ -149,4 +149,4 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 1. Type 1 Error: Rejecting the null hypothesis when it's actually true (False Positive).
 2. Type 2 Error: Failing to reject the null hypothesis when it's actually false (False Nagative).
 
-![](Which of the following is not valid conditional structure available in Java?)
+![](https://163602-560839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/07/Graphical-representation-of-type-1-and-type-2-errors.jpg)
