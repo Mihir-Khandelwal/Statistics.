@@ -150,3 +150,7 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 2. Type 2 Error: Failing to reject the null hypothesis when it's actually false (False Nagative).
 
 ![](https://163602-560839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/07/Graphical-representation-of-type-1-and-type-2-errors.jpg)
+
+------
+### T-Tests.
+- It is very similar to Z scores. Here we use sample standard deviation to estimate population  standard deviation. T-tests have wider tails.
