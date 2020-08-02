@@ -153,4 +153,21 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 
 ------
 ### T-Tests.
-- It is very similar to Z scores. Here we use sample standard deviation to estimate population  standard deviation. T-tests have wider tails.
+#### Steps to perform T-Tests.
+1. Define null and alternate hypothesis.
+2. Compute T statistic.
+3. Get T critical from the T-table.
+4. Compare the computed T statistic and T critical value.
+
+- It is very similar to Z scores. Here we use sample standard deviation to estimate population  standard deviation. T-tests have wider tails. It is mainly classified as below.
+1. 1 Tailed Test: It refer to the case where the null hypothesis is defined, such that we need to check for the critical values only in a single direction.
+2. 2 Tailed Test: It refer to the case where the null hypothesis is defined, such that we need to check for the critical values on both the sides of the mean.
+
+![](https://keydifferences.com/wp-content/uploads/2017/01/one-tailed-vs-two-tailed-test-thumbnail.jpg)
+
+------
+
+### Degree of Freedom.
+- If we need to pick values in a sample with sample size 10, and mean of 100, we can choose 9 values freely, but the 10th one will be forced by the sample mean, so in this case, the degree of freedom will be 9.
+
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/12/Degree-of-Freedom-Formula.jpg)
