@@ -152,6 +152,12 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 ![](https://163602-560839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/07/Graphical-representation-of-type-1-and-type-2-errors.jpg)
 
 ------
+### Degree of Freedom.
+- If we need to pick values in a sample with sample size 10, and mean of 100, we can choose 9 values freely, but the 10th one will be forced by the sample mean, so in this case, the degree of freedom will be 9.
+
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/12/Degree-of-Freedom-Formula.jpg)
+
+------
 ### T-Tests.
 #### Steps to perform T-Tests.
 1. Define null and alternate hypothesis.
@@ -166,8 +172,14 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 ![](https://keydifferences.com/wp-content/uploads/2017/01/one-tailed-vs-two-tailed-test-thumbnail.jpg)
 
 ------
+### One sample T-test.
+- It is used when we have a very small sample.
 
-### Degree of Freedom.
-- If we need to pick values in a sample with sample size 10, and mean of 100, we can choose 9 values freely, but the 10th one will be forced by the sample mean, so in this case, the degree of freedom will be 9.
+![](https://sites.nicholas.duke.edu/statsreview/files/2013/09/ttest2.jpg)
 
-![](https://cdn.educba.com/academy/wp-content/uploads/2019/12/Degree-of-Freedom-Formula.jpg)
+- If the T statistic value and critical T value are significantly different, we can say that there is significant difference between the two values.
+
+------
+### Two sample T-test.
+
+
