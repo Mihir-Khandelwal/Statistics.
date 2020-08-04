@@ -181,5 +181,12 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 
 ------
 ### Two sample T-test.
+- Here, difference is the difference in their means and the standard error would be the combine standard error of the two samples, and degree of freedom = n1+n2-2.
 
+![](https://www.biologyforlife.com/uploads/2/2/3/9/22392738/949234_orig.jpg)
+
+------
+### Paired T tests.
+- It is used to check the effect of the intervention on a sample.
+- Here we check, if there is a significant difference in the same sample before and after the intervention or in two different conditions.
 
