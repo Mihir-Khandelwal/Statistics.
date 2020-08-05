@@ -189,4 +189,8 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 ### Paired T tests.
 - It is used to check the effect of the intervention on a sample.
 - Here we check, if there is a significant difference in the same sample before and after the intervention or in two different conditions.
+- Null Hypothesis would be the difference two sample means is 0.
+- Alternate Hypothesis will be, thereis a significant difference between the two sample means.
+
+![](https://www.leansigmacorporation.com/wp/wp-content/uploads/2015/12/Paired-t-Test-MTB_00.png)
 
