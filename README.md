@@ -194,3 +194,17 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 
 ![](https://www.leansigmacorporation.com/wp/wp-content/uploads/2015/12/Paired-t-Test-MTB_00.png)
 
+### Chi-Squared tests.
+- Chi Squared test is used to estimate how closely an observed distribution matches an expected distribution. It is referred to as a “goodness-of-fit” test.
+
+![](https://www.thoughtco.com/thmb/ns7d4DC1AqVGme2p1-WYqC26r_s=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/latex_ac74fec08532861eb5f8b87226ebf396-5c59a6fcc9e77c00016b4195.jpg)
+
+- Chi squared statistic will be smaller when observed value are closer to the expected value and vice-versa.
+- Chi square test is unidirectional test.
+- In chi square test degree of freedom is always one, as we can choose only one value freely.
+- If calculated chi square statistic is smaller than chi square critical value, we fail to reject the null hypothesis, and there is no significant difference between the observed and expected values.
+
+------
+### Correlation.
+It is used to determine the relationship between two variables. It's coefficient is denoted by 'r'.
+- The correlation coefficient values ranges from -1 to +1, and 0 means no correlation.
