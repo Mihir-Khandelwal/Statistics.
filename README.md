@@ -208,3 +208,17 @@ A hypothesis is not factual. It is highly dependent on the researcher.
 ### Correlation.
 It is used to determine the relationship between two variables. It's coefficient is denoted by 'r'.
 - The correlation coefficient values ranges from -1 to +1, and 0 means no correlation.
+
+![](https://zerodha.com/varsity/wp-content/uploads/2017/04/Correlation-Formula.png)
+
+- The covariance shows how much of this variables vary with each other, while the Standard Deviation shows how much these variables vary apart from each other.
+
+![](https://www.thoughtco.com/thmb/YZnPkaWagkte6kbfAQLmZ5flKjI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/TC_3126228-how-to-calculate-the-correlation-coefficient-5aabeb313de423003610ee40.png)
+
+- If the data falls perfectly in the positive direction, then the value of r is 1, or else it is 0.
+- R-square is known as the coefficient and can be interpreted in terms of percentage (%).
+
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/05/Covariance-Formula.jpg)
+
+- If the correlation is nearer to 0, it is weaker correlation and if towards 1 or -1 it is stronger correlation.
+
