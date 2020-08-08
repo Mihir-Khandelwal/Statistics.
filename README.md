@@ -222,3 +222,14 @@ It is used to determine the relationship between two variables. It's coefficient
 
 - If the correlation is nearer to 0, it is weaker correlation and if towards 1 or -1 it is stronger correlation.
 
+------
+## Predictive Modeling.
+1. Making use of past data and other attributes.
+2. Predict the future using this data.
+
+------
+#### Types of Predictive Modeling.
+1. Supervised Learning: Past data is relevent to calculate future data. It has 2 types as below.
+a. Regression Problem: Target variable is continuous in nature.
+b. Classification Problem: Target variable is discrete in nature.
+2. Unsupervised Learning: Past data is irrelevent in calculation of future data. Here clustering is used.
