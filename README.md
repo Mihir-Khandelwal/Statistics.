@@ -233,3 +233,20 @@ It is used to determine the relationship between two variables. It's coefficient
 * Regression Problem: Target variable is continuous in nature.
 * Classification Problem: Target variable is discrete in nature.
 2. Unsupervised Learning: Past data is irrelevent in calculation of future data. Here clustering is used.
+
+------
+#### Stages of Predictive Modeling.
+1. Problem Definition.
+2. Hypothesis Generation.
+3. Data Extraction/Collection.
+4. Data Exploration and Transformation.
+5. Predictive Modeling.
+6. Model Deployment/Implemantation.
+
+![](https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png)
+
+------
+Problem Definition: The first step is to define the problem. Identify the right problem statement, ideally fromulate the problem mathematically.
+
+------
+Hypothesis Generation: 
