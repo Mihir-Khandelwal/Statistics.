@@ -243,7 +243,7 @@ It is used to determine the relationship between two variables. It's coefficient
 5. Predictive Modeling.
 6. Model Deployment/Implemantation.
 
-![](https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png)
+![](https://www.researchgate.net/profile/Mohsen_Attaran/publication/325934828/figure/fig4/AS:654140673888265@1532970698885/Predictive-Analytics-Process.png)
 
 ------
 Problem Definition: The first step is to define the problem. Identify the right problem statement, ideally fromulate the problem mathematically.
