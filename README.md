@@ -249,4 +249,12 @@ It is used to determine the relationship between two variables. It's coefficient
 Problem Definition: The first step is to define the problem. Identify the right problem statement, ideally fromulate the problem mathematically.
 
 ------
-Hypothesis Generation: 
+Hypothesis Generation: List down all possible variables, which might influence problem objective, but care should be taken that these variables should be free from personal bias and preference, since te quality of the mode is dependent on the quality of hypothesis.  
+- It is to be done before looking at th data.
+
+------
+Data Extraction/Collection: Extract the data from different sources and combine those for exploration and model building. 
+
+------
+Data Exploration and Transformation: Data Exploration have several steps as follows.
+1. Reading the data:
