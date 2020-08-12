@@ -257,4 +257,12 @@ Data Extraction/Collection: Extract the data from different sources and combine 
 
 ------
 Data Exploration and Transformation: Data Exploration have several steps as follows.
-1. Reading the data:
+1. Reading the data: It is used to read various types of file formats like
+  - Comma seperated file:- .csv.
+  - Excel file:- .xlss/.xls
+2. Variable Identification: It is the process of identifying which variable are dependent and independent, which are continuous and categorical.
+  - Dependent: The variable we are trying to predict.
+  - Independent: The variables which help in predicting the dependent variable. They can be identified from the problem statement , and by no other way.
+  - Categorical: Discrete in nature. They are stored as objects in Pandas.
+  - Continuous: Can hwve infinite number of possible values. They are stored as int or float in Pandas.
+3. Univariate Analysis:   
