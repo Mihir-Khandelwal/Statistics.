@@ -275,5 +275,5 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   - There are 2 methods to perform Univariate Analysis of Categorical Variable.
     - Tabular: Frequenct Tables.
     - Graphical: Bar Plots.
-4. Bivariate Analysis:     
+4. Bivariate Analysis: In it two variables are studied together for their emprical relationship or whether two variables are associated with each other or not. It helps in prediction i.e. when two variables are associated one may be used to infer the other. It also helps in detecting anomalies.
  
