@@ -265,4 +265,15 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   - Independent: The variables which help in predicting the dependent variable. They can be identified from the problem statement , and by no other way.
   - Categorical: Discrete in nature. They are stored as objects in Pandas.
   - Continuous: Can hwve infinite number of possible values. They are stored as int or float in Pandas.
-3. Univariate Analysis:   
+3. Univariate Analysis: In it only variable is explored at a time, summarize it and use this summary to understand it better and to discover insights, anomalies etc.
+  - For Continuous Variable: Central tendency and dispersion is used i.e. mean, median, standard deviation. Distribution of variable is done by Symmetric/Right Skewed/Left Skewed. It also helps us to detect missing values and the presence of any Outliers. There are 2 methods to perform Univariate Analysis of Continuous Variable.
+  1. Tabular: It is best suited for mean, median, standard deviation and missing values.
+  2. Graphical: It is best suited for Distribution of variable and presence of Outliers (Box Plot is generally used).
+  - For Categorical Variable: Following is the technique.
+    - Count: Absolute frequency of each category in a categorical variable.
+    - Count%: Proportion of different categories in a categorical variable expressed as %.
+  - There are 2 methods to perform Univariate Analysis of Categorical Variable.
+    - Tabular: Frequenct Tables.
+    - Graphical: Bar Plots.
+4. Bivariate Analysis:     
+ 
