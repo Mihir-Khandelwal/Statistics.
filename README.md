@@ -276,6 +276,6 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
     - Tabular: Frequenct Tables.
     - Graphical: Bar Plots.
 4. Bivariate Analysis: In it two variables are studied together for their emprical relationship or whether two variables are associated with each other or not. It helps in prediction i.e. when two variables are associated one may be used to infer the other. It also helps in detecting anomalies. There are 3 types of Bivariate Analysis.
-  1. Continuous-Continuous Variable: Here, generally Scatter Plot is used. To quantify the relationship between 2 continuous variable, we check correlation between 2 variables. Correlation measures 2 variables. Correlation measures strength of linear relationship between 2 continuous variables along their direction.
-  2. Categorical-Continuous Variable: Here, generally Bar Plot is used. As here, 2 variables are distinct, so wecan used 2-sample T-test.
-  3. Categorical-Categorical Variable: Here two-way table is used to illustrate the given problem, also the Chi-Squared test is used.
+  - Continuous-Continuous Variable: Here, generally Scatter Plot is used. To quantify the relationship between 2 continuous variable, we check correlation between 2 variables. Correlation measures 2 variables. Correlation measures strength of linear relationship between 2 continuous variables along their direction.
+  - Categorical-Continuous Variable: Here, generally Bar Plot is used. As here, 2 variables are distinct, so wecan used 2-sample T-test.
+  - Categorical-Categorical Variable: Here two-way table is used to illustrate the given problem, also the Chi-Squared test is used.
