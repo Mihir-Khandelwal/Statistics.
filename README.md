@@ -279,3 +279,14 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   - Continuous-Continuous Variable: Here, generally Scatter Plot is used. To quantify the relationship between 2 continuous variable, we check correlation between 2 variables. Correlation measures 2 variables. Correlation measures strength of linear relationship between 2 continuous variables along their direction.
   - Categorical-Continuous Variable: Here, generally Bar Plot is used. As here, 2 variables are distinct, so wecan used 2-sample T-test.
   - Categorical-Categorical Variable: Here two-way table is used to illustrate the given problem, also the Chi-Squared test is used.
+5. Missing Value Treatment: Reasons for missing values are as follows.
+  - Non-response.
+  - Error in Data Collection.
+  - Error in Reading Data.
+- Types of Missing values.
+  - Missing Completely at Random(MCAR): Missing values have no relation with the variable in which missing value exist and no relation with other variables in the dataset.
+  - Missing at Random(MAR): Missing values have no relation with the variable in which missing value exist, but have relation with the variables other than the variable in which missing value exist.
+  - Missing not at Random(MNAR) :Missing values have no relation with the variable in which missing value exist.
+- The identification for missing values is done by describe() function for Continuous variable and by isnull() function for Continuous as well as Categorical variable.
+- Methods to deal with Missing values:
+  1. Imputation:
