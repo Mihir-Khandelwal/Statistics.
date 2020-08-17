@@ -289,4 +289,12 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   - Missing not at Random(MNAR) :Missing values have no relation with the variable in which missing value exist.
 - The identification for missing values is done by describe() function for Continuous variable and by isnull() function for Continuous as well as Categorical variable.
 - Methods to deal with Missing values:
-  1. Imputation:
+  1. Imputation: Continuous variables are imputed by using mean,median and regression model while categorical variables are imputed using mode and classification model.
+  2. Deletion: Row wise deletion is performed to delete the entire row having missing values and column wise deletion is performed to delete the entire column having missing value.
+- Deletion method results in loss of data, hence used rarely, Imputation is generally used.
+6. Outlier Treatment: Reasons for Outliers are data entry errors, measurement errors, processing errors and change in the underlying population.
+- Types of Outlier Treatment.
+  - Univariate Outlier: It is the one when we analyse the single variable for outliers.
+  - Bivaraiate Outlier: Here two variables are analyzed for outliers.
+- Identifying Outliers.
+  1. Graphical Method: 
