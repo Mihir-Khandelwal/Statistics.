@@ -297,4 +297,7 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   - Univariate Outlier: It is the one when we analyse the single variable for outliers.
   - Bivaraiate Outlier: Here two variables are analyzed for outliers.
 - Identifying Outliers.
-  1. Graphical Method: 
+  1. Graphical Method: For Univariate outliers we use box plot and for Bivariate outliers  we use scatter plot to identify outliers.
+  2. Formula Method: It is used by Box plot. Here an outlier is defined as any value which is <Q1-1.5 * IQR or >Q3+1.5 * IQR.
+    - where, IQR = Q3-Q1.
+  - Treating Outliers:  
