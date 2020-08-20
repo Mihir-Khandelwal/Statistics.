@@ -300,4 +300,15 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   1. Graphical Method: For Univariate outliers we use box plot and for Bivariate outliers  we use scatter plot to identify outliers.
   2. Formula Method: It is used by Box plot. Here an outlier is defined as any value which is <Q1-1.5 * IQR or >Q3+1.5 * IQR.
     - where, IQR = Q3-Q1.
-  - Treating Outliers:  
+- Treating Outliers: There are 4 methods.
+  - Deleting Observations.
+  - Transforming and Binning values.
+  - Imputing Outliers like Missing values.
+  - Treat them seperately.
+7. Variable Transformation: It takes the process by which we replace a variable with some function of that variable or we change the distribution or relationship of a variable with others.
+- Variable Transformation is used to:
+  1. Change the scale of a variable.
+  2. Transforming non linear relationships into linear.
+  3. To create symmetric distributions from skewed distributions.
+- Methods of Variable Transformation.
+  - Logarithm: 
