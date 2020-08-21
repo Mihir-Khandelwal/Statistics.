@@ -311,4 +311,7 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   2. Transforming non linear relationships into linear.
   3. To create symmetric distributions from skewed distributions.
 - Methods of Variable Transformation.
-  - Logarithm: 
+  - Logarithm: Taking log reduces right skewedness of the variable.
+  - Square root: Used for right skewed variable with positive values only.
+  - Cube root: Used for right skewed variables with positive or negative values.
+  - Binning: Used for converting Continuous variable into Categorical variables.
