@@ -315,3 +315,10 @@ Data Exploration and Transformation: Data Exploration have several steps as foll
   - Square root: Used for right skewed variable with positive values only.
   - Cube root: Used for right skewed variables with positive or negative values.
   - Binning: Used for converting Continuous variable into Categorical variables.
+  
+------
+Model Building: It is  a process to create a mathematical model for estimating/predicting the future behaviour based on past data.
+- It comparises of 3 types.
+1. Algorithm selection: If we have an dependent variable, then the problem becomes supervised learning othervise it is unsupervised learning. If our problem has continuous type dependent variable, then it becomes regression problem othervise classification one.
+2. Training Model: It is a process to learn relationship/correlationship between independent and dependent variables. A dataset consists of train and test. Using a train dataset we train our model or learn the relationship between independent and dependent variables. Test data is one, which doesn't have dependent variable and is used to make predictions. It also represent future data whose dependent variable is unknown.
+3. Making Predictions: It is the process to estimate/predict dependent variable of test dataset by applying model rules. We always make prediction test dataset and not on the training dataset, to check the quality of our model.
