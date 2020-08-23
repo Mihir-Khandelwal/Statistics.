@@ -228,14 +228,14 @@ It is used to determine the relationship between two variables. It's coefficient
 2. Predict the future using this data.
 
 ------
-#### Types of Predictive Modeling.
+### Types of Predictive Modeling.
 1. Supervised Learning: Past data is relevent to calculate future data. It has 2 types as below.
 * Regression Problem: Target variable is continuous in nature.
 * Classification Problem: Target variable is discrete in nature.
 2. Unsupervised Learning: Past data is irrelevent in calculation of future data. Here clustering is used.
 
 ------
-#### Stages of Predictive Modeling.
+### Stages of Predictive Modeling.
 1. Problem Definition.
 2. Hypothesis Generation.
 3. Data Extraction/Collection.
@@ -322,3 +322,12 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 1. Algorithm selection: If we have an dependent variable, then the problem becomes supervised learning othervise it is unsupervised learning. If our problem has continuous type dependent variable, then it becomes regression problem othervise classification one.
 2. Training Model: It is a process to learn relationship/correlationship between independent and dependent variables. A dataset consists of train and test. Using a train dataset we train our model or learn the relationship between independent and dependent variables. Test data is one, which doesn't have dependent variable and is used to make predictions. It also represent future data whose dependent variable is unknown.
 3. Making Predictions: It is the process to estimate/predict dependent variable of test dataset by applying model rules. We always make prediction test dataset and not on the training dataset, to check the quality of our model.
+
+------
+### Machine Learning Algorithms.
+1. Linear Regression: Making an relationship between 2 variables using a linear line is called Linear Regression. It doesn't mean that it always has an straight line.
+-  Linear Regression can be written as,
+
+![](https://madhureshkumar.files.wordpress.com/2015/07/picture2.png)
+
+- Cost Function: 
