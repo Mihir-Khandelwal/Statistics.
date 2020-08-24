@@ -330,4 +330,13 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 
 ![](https://madhureshkumar.files.wordpress.com/2015/07/picture2.png)
 
-- Cost Function: 
+- Cost Function: Choosing the best line from multiple lines by the above formula is called Cost Function. Best line is that in which values of θ0 and θ1 are such that the value of ŷ is as close as possible y.
+  - Squared Error = square of (ŷ - y). This formula can also be written as follows to reduce our computation.
+  - Squared Error = square of 1/2n(θ0 + θ1x - y).
+  - The above equation becomes the equation of Cost Function, as that the error is minimum now. Our target is to calculate minimum Cost Function.
+- Gradient Descent: It tries to find the values of θ0 and θ1 using gradient by using slopes.
+
+![](https://i.stack.imgur.com/JIrNt.png)
+
+- R-Squared:
+ 
