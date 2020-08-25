@@ -338,5 +338,16 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 
 ![](https://i.stack.imgur.com/JIrNt.png)
 
-- R-Squared:
+- R-Squared: It is the ratio of explained variance to the total variance. It tells us how far is the point from our regression line.
+
+![](https://docs.oracle.com/cd/E12825_01/epm.111/cb_statistical/images/graphics/r_squared_constant.gif)
+
+- R Squared value lies between 0 and 1. The disadvantage of it is that if we increase the number of points R-Squared value always increases.
+
+![](https://st2.ning.com/topology/rest/1.0/file/get/2742052271?profile=original)
+
+- Evaluation Metrics: Here commonly Root Mean Square Error (RMSE) is used. For a given two RMSE, lower is better, a better model will have a lower RMSE. It is one of the most popular evaluation metrics that we used in Linear Regression.
+
+![](https://miro.medium.com/max/797/0*JpiWBlOFqYTPa8Ta.png)
+
  
