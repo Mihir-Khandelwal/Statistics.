@@ -350,4 +350,12 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 
 ![](https://miro.medium.com/max/797/0*JpiWBlOFqYTPa8Ta.png)
 
- 
+------
+2. Logistic Regression: It takes linear regression as a input and calculate/estimate the sigmoid function.
+
+![](https://qph.fs.quoracdn.net/main-qimg-6ab7369356c16f17ac39fbb83d5d56c1)
+
+- It takes only 2 values 0 and 1. Here modified cost function is used.
+- If cost value is 1 and predicted is also 1, so there is a very low cost function i.e. near to 0, whereas the actual value is 1 and predicted is 0, so the cost function goes to infinite.
+- Evaluation Metrics: Here positive is represented by 1 and negative by 0. alsothe accuracy can be determined from it in terms of percentage.
+
