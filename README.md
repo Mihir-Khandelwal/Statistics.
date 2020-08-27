@@ -359,3 +359,19 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 - If cost value is 1 and predicted is also 1, so there is a very low cost function i.e. near to 0, whereas the actual value is 1 and predicted is 0, so the cost function goes to infinite.
 - Evaluation Metrics: Here positive is represented by 1 and negative by 0. alsothe accuracy can be determined from it in terms of percentage.
 
+------
+### Decision Tree.
+- Dividing the bigger sets of objects into smaller parts.
+- Root Node: The starting of a particular question.
+- Terminal Node: The last node of any decision tree.
+- Depth: Minimum number of edges required from the root node to the bottommost terminal node.
+- Spliting of decision tree: If the difference between the subnotes in terms of percentage is large, then it is bette spliting otherwise no. Gini Index is used to check the quality of the split.
+
+![](https://www.wallstreetmojo.com/wp-content/uploads/2019/05/Gini-Coefficient-Formula.jpg)
+
+- Bigger is the Gini Index better is the split.
+
+------
+### Un-Supervised Learning.
+- Clustering: It is the task of dividing the datapoints into a number of groups, such that datapoints in the same groups are more similar to other points in the same group, then those in the other groups.
+- Hard Clustering:
