@@ -373,5 +373,21 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 
 ------
 ### Un-Supervised Learning.
+- Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses.
 - Clustering: It is the task of dividing the datapoints into a number of groups, such that datapoints in the same groups are more similar to other points in the same group, then those in the other groups.
-- Hard Clustering:
+- Hard Clustering: In it each data point belong to one cluster.
+- Soft Clustering: In it the data point can be in multiple cluster.
+
+![](https://lh3.googleusercontent.com/DS4BHTkXT_9FzxuOd67PNjJT-o87kdtvP42wq_JUzQz8oWhzOOxWKu0CAkTSzBzyLKrYNWAF8dAY6FUSgjLJFBBrMjHz_cdk9-i0QhAOnIdo8Nq3192BdGxlEUwRRpCzkp_iBiIK)
+
+------
+### K Means.
+- It is the type of hard cluster algorithm. It aims to divide the input data into predefined sets of cluster. Following are the steps to solve K Means.
+  - Form the cluster with the number given by K. If K = 2, two cluster must be made.
+  - Calculate the centroid of each cluster.
+  - Calculate the direction of every point from each of the cluster centroids, and assign the point to a cluster with which the distance is minimum.
+- Here the distance can be calculated by Eucledian formula or by Distance formula.
+
+![](https://www.researchgate.net/profile/Justin_Page/publication/268880805/figure/fig3/AS:282625324404757@1444394536795/K-means-clustering-algorithm-An-example-2-cluster-run-is-shown-with-the-clusters.png)
+
+
