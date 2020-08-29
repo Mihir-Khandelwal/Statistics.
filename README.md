@@ -389,5 +389,3 @@ Model Building: It is  a process to create a mathematical model for estimating/p
 - Here the distance can be calculated by Eucledian formula or by Distance formula.
 
 ![](https://www.researchgate.net/profile/Justin_Page/publication/268880805/figure/fig3/AS:282625324404757@1444394536795/K-means-clustering-algorithm-An-example-2-cluster-run-is-shown-with-the-clusters.png)
-
-
